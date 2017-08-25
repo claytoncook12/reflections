@@ -1,1 +1,4 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+	Pulling changes allows the user to keep track of the files and changes they are making and
+	decide when would be best to merge there changes to the repository.
