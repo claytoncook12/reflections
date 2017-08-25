@@ -2,3 +2,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	Pulling changes allows the user to keep track of the files and changes they are making and
 	decide when would be best to merge there changes to the repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks are clones that stay on github. Clones are copys of repositories. Branches are
+	divergences from a present code base. Forks for using other peoples work
+	on github, clones for pulling work from github on to a local machine, and branches for 
+	when a user want to change something about the code base but still wants a working/production
+	version of the code.
