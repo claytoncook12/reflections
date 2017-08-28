@@ -19,3 +19,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	Could share files using dropbox, but the files would have to be manually tracked, such as renaming
 	files. It would definetly be harder to track files and keep up with the most up to date versions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	Making changings in a different branch allows for review when doing a pull request and allows for
+	a more collaborative environment
